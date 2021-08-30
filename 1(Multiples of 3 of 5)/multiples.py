@@ -1,0 +1,1 @@
+print(len(set(range(3, 1001, 3)).union(set(range(5, 1001, 5)))))
